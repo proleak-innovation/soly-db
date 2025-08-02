@@ -1,7 +1,7 @@
 {
   "name": "soly-db",
-  "version": "1.2.1",
-  "description": "soly-db is a modern, high-quality NoSQL database designed for simplicity and performance. Developed by PROLEAK Innovation and JOB Multiver.",
+  "version": "1.5.0",
+  "description": "soly-db is a modern, high-quality NoSQL database with optional schema validation designed for simplicity and performance. Developed by PROLEAK Innovation and JMM Entertainment.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -17,10 +17,10 @@
     "storage",
     "typescript",
     "proleak",
-    "jobmultiver",
+    "jmmentertainment",
     "soly-db"
   ],
-  "author": "PROLEAK Innovation and JOB Multiver <contact@proleak.com>",
+  "author": "PROLEAK Innovation and JMM Entertainment <center@proleakinnovation.com>",
   "license": "ISC",
   "type": "commonjs",
   "repository": {
@@ -32,8 +32,8 @@
     "url": "https://github.com/proleak-innovation/soly-db/issues"
   },
   "devDependencies": {
-    "@types/node": "^20.11.24",
-    "typescript": "^5.3.3"
+    "@types/node": "^20.12.7",
+    "typescript": "^5.4.5"
   },
   "files": [
     "dist",
